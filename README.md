@@ -8,7 +8,6 @@ analysis by `page_id` and by `(page_id, ad_id)`.
 
 ```
 Task_02_Descriptive_Stats/
-├── data/                    <- put the CSV here (not tracked in git)
 ├── pure_python_stats.py      <- stdlib only
 ├── pandas_stats.py
 ├── polars_stats.py
